@@ -3,8 +3,8 @@
 
 | Database | Modalities | Size | Model | Description | Available |
 | --- | --- | --- | --- | --- | --- |
-| FER-2013[10] | Images | 28,709 training <br> 3,589 test | 7 categories s | 48x48 pixel grayscale images of faces | yes |
-| Oulu-CASIA[14] | Videos | | | Three illumination conditions | yes |
+| FER-2013 | Images | 28,709 training <br> 3,589 test | 7 categories s | 48x48 pixel grayscale images of faces | yes |
+| Oulu-CASIA | Videos | | | Three illumination conditions | yes |
 | EMOTIC (Kosti et al. 2017) | Images | 23 788 <br> 66%M + 34%F <br> 11% children 11% teenagers 78% adults | 26 categories+1−10 scale VAD | Emotions in Context | |
 | KDEF | | | | | |
 | CK+(Lucey et al. 2010) | Images | 210 <br> 18-50 yo | 7 emotions |
